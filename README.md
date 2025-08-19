@@ -1,7 +1,7 @@
 ## Hi, I'm Samson
 
 Professional app and web developer<br/>
-Fullstack developer at Fiverr<br/>
+Fullstack developer<br/>
 I create stunning, user-friendly, and conversion-focused themed desktop apps and websites, to stay consistent.<br/>
 i make videos about code and design on [Instagram](https://www.instagram.com/thisbigwig/)
 
