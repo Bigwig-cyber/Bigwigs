@@ -1,3 +1,6 @@
+
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ADEYEWA;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+
 ## Hi, I'm Samson
 
 Professional app and web developer<br/>
